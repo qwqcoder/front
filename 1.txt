@@ -1,1 +1,6 @@
 today i try to relearn the git
+
+----
+git init
+git pull origin main
+----
