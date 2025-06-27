@@ -5,4 +5,5 @@ git init
 git pull origin main
 ----
 
-git fetch before git push
+# undo 回退到上一个提交
+git reset --hard HEAD^ 
